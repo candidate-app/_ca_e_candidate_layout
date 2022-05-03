@@ -1,0 +1,1 @@
+{"name":"e_candidate_layout","type":"ui-elements","source":{"https":"https://github.com/candidate-app/_ca_e_candidate_layout","ssh":"git@github.com:candidate-app/_ca_e_candidate_layout.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
