@@ -1,9 +1,9 @@
-import React from 'react'
-import e_candidate_layout from './e_candidate_layout'
+import React from 'react';
+import Layout from './components/layout/Layout.js';
 export default function App() {
   return (
     <div>
-      <e_candidate_layout/>
+      <Layout />
     </div>
-  )
+  );
 }
